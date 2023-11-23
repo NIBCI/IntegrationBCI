@@ -7,11 +7,11 @@ Additionally, various BCI programs provided by our research can be downloaded fr
 All BCI programs provide _Real mode_ and _Virtual mode_. 
 Therefore, even if you do not own the relevant BCI equipment, you are given the opportunity to experience our algorithm through virtual mode.
 
-- MealAssistant.exe [[(https://github.com/KISTseulkee/BCIsystem2)](https://github.com/NIBCIlab/BCIprogram)](https://github.com/NIBCIlab/BCIprogram)
+- MealAssistant.exe (https://github.com/NIBCIlab/BCIprogram)
   
    : Meal assistance robot BCI system based on steady state visual evoked potential (SSVEP)
 
-- RemoteMI.exe [[(https://github.com/KISTseulkee/BCIsystem2)](https://github.com/NIBCIlab/BCIprogram)](https://github.com/NIBCIlab/BCIprogram)
+- RemoteMI.exe (https://github.com/NIBCIlab/BCIprogram)
   
    : Remote robot BCI system based on Motor Imagery (MI; Left hand, Right hand and Foot imagery)
     
