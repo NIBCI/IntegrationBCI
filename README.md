@@ -2,7 +2,7 @@
 
 Through this program, you can apply your EEG measurement device (LSL-based) to the BCI program we provide.
 
-**Non-invasive BCIplatform.exe** helps perform LSL-based data communication using equipment such as G.tec, Biosemi, Cognionix, and BrainProduct. 
+**NIBCI.exe** helps perform LSL-based data communication using equipment such as G.tec, Biosemi, Cognionix, and BrainProduct. 
 Additionally, various BCI programs provided by our research can be downloaded from this page. 
 All BCI programs provide _Real mode_ and _Virtual mode_. 
 Therefore, even if you do not own the relevant BCI equipment, you are given the opportunity to experience our algorithm through virtual mode.
