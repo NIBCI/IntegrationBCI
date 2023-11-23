@@ -1,4 +1,4 @@
-# IntegrationBCI
+# Non-invasive BCIplatform
 
 Through this program, you can apply your EEG measurement device (LSL-based) to the BCI program we provide.
 
