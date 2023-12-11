@@ -31,7 +31,7 @@ Therefore, even if you do not own the relevant BCI equipment, you are given the 
   
   : Robotic arm BCI system based on Motor Imagery (MI; Grasping)
 
-- IoTHomeERP.exe
+- IoTHomeERP.exe (https://github.com/Heodojin/IoTHomeERP/tree/main)
   
   : IoT Home BCI system based on ERP P300
 
