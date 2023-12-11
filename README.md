@@ -27,7 +27,7 @@ Therefore, even if you do not own the relevant BCI equipment, you are given the 
   
   : Exoskeleton robot BCI system based on Motor Imagery (MI; Stand, Sit and Walking)
     
-- RoboticArmControl.exe
+- RoboticArmControl.exe (https://github.com/KU-BCI-Robot/UserApp)
   
   : Robotic arm BCI system based on Motor Imagery (MI; Grasping)
 
